@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#1a1a2e"/>
+  <text x="600" y="250" font-family="Arial, sans-serif" font-size="80" fill="white" text-anchor="middle" font-weight="bold">🤖 IA &amp; Automatisation</text>
+  <text x="600" y="350" font-family="Arial, sans-serif" font-size="40" fill="#e94560" text-anchor="middle">Intelligence Artificielle</text>
+  <text x="600" y="400" font-family="Arial, sans-serif" font-size="30" fill="#4cc9f0" text-anchor="middle">Transforme le Web</text>
+  <line x1="200" y1="450" x2="1000" y2="450" stroke="#4cc9f0" stroke-width="4"/>
+  <text x="600" y="520" font-family="Arial, sans-serif" font-size="25" fill="white" text-anchor="middle">📊 + Métriques en temps réel</text>
+  <text x="600" y="560" font-family="Arial, sans-serif" font-size="25" fill="white" text-anchor="middle">💬 + Moderation intelligente</text>
+  <text x="600" y="600" font-family="Arial, sans-serif" font-size="25" fill="white" text-anchor="middle">📈 + Croissance automatique</text>
+</svg>
